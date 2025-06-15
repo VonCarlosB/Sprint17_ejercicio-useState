@@ -7,7 +7,7 @@ En este ejercicio tendrás que poner en práctica lo aprendido con useState. Par
    - `newName`: inicializada con el valor `''`, que representa el nuevo nombre ingresado por el usuario.
 3. En el JSX del componente, renderiza un título `<h2>` con el texto "Teacher Name" seguido del valor de `name`.
 4. Renderiza una lista `<ul>` con tres elementos `<li>`, cada uno con un nombre de profesor diferente:
-   - El texto de cada elemento `<li>` debe ser uno de los nombres predefinidos ("Data", "Reyes", "Yolanda").
+   - El texto de cada elemento `<li>` debe ser uno de los nombres predefinidos ("Data", "Reyes", "Celia").
    - Al hacer clic en cada elemento de la lista, se debe cambiar el nombre del profesor mostrado en el título a uno de los nombres predefinidos correspondientes.
    - Utiliza la función `setName` proporcionada por `useState` para actualizar el nombre del profesor cuando se haga clic en un elemento de la lista.
 
